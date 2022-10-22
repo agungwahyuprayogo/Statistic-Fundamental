@@ -40,7 +40,6 @@ Skewness is a measure of the asymmetry of a distribution. A distribution is asym
  * Left Skew
 ## Correlation
 Correlation is a statistical measure that expresses the extent to which two variables are linearly related 
-## Checking Anomalies
 
 ## Outlier and Anomaly 
 An outlier is an observation that lies an abnormal distance from other values in a random sample from a population.
